@@ -1,2 +1,2 @@
 # cria_pasta
-script que gera pasta 
+script de exemplo que gera pasta 
